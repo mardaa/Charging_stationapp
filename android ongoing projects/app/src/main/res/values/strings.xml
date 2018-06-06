@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Electricar Charging Stations</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="next">next</string>
+    <string name="title_activity_sign_up">SignUp</string>
+    <string-array name="car_manufacturers">
+        <item> BMW i3 </item>
+        <item> BMW Brilliance Zinoro 1E </item>
+        <item> Bolloré Bluecar </item>
+        <item> BYD e6 </item>
+        <item> Chery QQ3 EV </item>
+        <item> Chevrolet Spark EV </item>
+        <item> Chevrolet Bolt EV </item>
+        <item> Citroën S-Zero </item>
+        <item> ElectraMeccanica Solo </item>
+        <item> Fiat 500e </item>
+        <item> Ford Focus Electric </item>
+        <item> Honda Fit EV </item>
+        <item> Hyundai Ioniq </item>
+        <item> JAC J3 EV </item>
+        <item> JAC IEV 6S </item>
+        <item> Buddy (Kewet) </item>
+        <item> Kia Soul EV </item>
+        <item> Kyburz eRod </item>
+        <item> Lightning GT </item>
+        <item> Mahindra e2o plus </item>
+        <item> Mahindra e-Verito </item>
+        <item> Marcedes-Benz B-Class Electric Drive </item>
+        <item> Microlino </item>
+        <item> Mitsubishi i-MiEV </item>
+        <item> Motores Limpios Zacua </item>
+        <item> MW Motors Luka EV </item>
+        <item> Nissan Leaf </item>
+        <item> Nissan QBeak </item>
+        <item> Peugeot i0n </item>
+        <item> Rayttle E28 </item>
+        <item> Renault Fluence ZE </item>
+        <item> Renault Zoe </item>
+        <item> Renault Twizy </item>
+        <item> Smart electric drive </item>
+        <item> Stevens Zecar </item>
+        <item> Tesla Model S </item>
+        <item> Tesla Model X </item>
+        <item> Tesla Model 3 </item>
+        <item> Venturi Fétish </item>
+        <item> Volkswagen e-golf </item>
+        <item> Volkswagen e-Up! </item>
+        <item> None </item>
+    </string-array>
+    <string-array name="charging_mode">
+        <item> DC Fast Charger </item>
+        <item> AC Rapid Charger </item>
+    </string-array>
+    <string-array name="waiting_time">
+        <item> Available now </item>
+        <item> 5 minutes </item>
+        <item> 10 minutes </item>
+        <item> 20 minutes </item>
+        <item> 30 minutes </item>
+    </string-array>
+    <string-array name="plug_type">
+        <item> Tesla supercharger </item>
+        <item> CHAdeMO </item>
+        <item> CCS </item>
+        <item> China GB_T </item>
+        <item> Mennekes </item>
+        <item> SAE J1722 </item>
+    </string-array>
+    <string name="title_activity_results">Results</string>
+
+</resources>
